@@ -25,4 +25,5 @@ First version of these packages was released by Scot Martin, 14 July 2011, scot_
 
 Acknowledgments: This material is based upon work supported by the National Science Foundation. Any opinions, finndings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 
-
+UPDATES:
+8 June 2017, version 2.01. Major: The option "ByteRead" was added for H5DExtendRead functions. Minor: Additional H5 library functions implemented, including H5TgetEBias, H5TgetFields, H5TgetInPad, H5TgetNorm, H5TgetOffset, H5TgetOrder, H5TgetPad, H5TgetPrecision, and H5TgetSign, along with some corresponding H5TBasicGet... functions.
